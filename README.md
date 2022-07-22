@@ -1,6 +1,7 @@
 <!-- Minhest Dev -->
 <a href="#" target="_blank">
   <img src="svg/minhestdev.svg" width="1200" alt="Click to see the source" />
+  <br>
   <video src="https://www.youtube.com/watch?v=c5B-OYIs8yo" controls></video>
 </a>
 
