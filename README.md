@@ -90,6 +90,6 @@
 <hr>
 <h2 align="center">ᴛʜᴀɴᴋs ғᴏʀ ʏᴏᴜʀ ᴠɪsɪᴛ. ʜᴀᴠᴇ ᴀ ɴɪᴄᴇ ᴅᴀʏ. ♥️</h2> 
 <br>
-<h3 align="center">sɪɢɴ</h3><br>
+<h3 align="center">sɪɢɴ</h3>
 <h4 align="center">ᴍɪɴʜᴇsᴛ ᴅᴇᴠ</h4>
 
