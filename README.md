@@ -1,9 +1,8 @@
 <!-- Minhest Dev -->
 <a href="#" target="_blank">
   <img src="svg/minhestdev.svg" width="1200" alt="Click to see the source" />
-  <br>
-  <video src="https://youtu.be/c5B-OYIs8yo" controls></video>
 </a>
+<video src="https://youtu.be/c5B-OYIs8yo" controls></video>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
