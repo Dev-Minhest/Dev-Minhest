@@ -2,7 +2,6 @@
 <a href="#" target="_blank">
   <img src="svg/minhestdev.svg" width="1200" alt="Click to see the source" />
 </a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c5B-OYIs8yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
