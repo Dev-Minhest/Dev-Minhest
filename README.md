@@ -29,7 +29,7 @@
 
 <br>
 <h2 align="center">🌎 My Social 🌎</h2>
-<span><img src="https://img.shields.io/twitter/url?label=https%3A%2F%2Ftwitter.com%2Fminhestdev&style=social&url=https%3A%2F%2Ftwitter.com%2Fminhestdev" alt="Twitter logo" title="Twitter" height="25" /></span>
+<span><img src="https://img.shields.io/twitter/url?label=AnhMinh&style=social&url=https%3A%2F%2Ftwitter.com%2Fminhestdev" alt="Twitter logo" title="Twitter" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/youtube/channel/views/UCL4J_F9Y3BHXYOulzwUmP4A?label=Minhest%20Dev&style=social" alt="Twitter logo" title="Twitter" height="25" /></span>
 &nbsp;
