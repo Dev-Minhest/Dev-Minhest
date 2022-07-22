@@ -88,8 +88,8 @@
 <img src="https://scontent.fhan3-4.fna.fbcdn.net/v/t39.30808-6/294829371_785573545917556_8833359810563147795_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=eIoRxadM8PkAX9V9PDx&_nc_ht=scontent.fhan3-4.fna&oh=00_AT8FF6S5M-lIyajNoTpmNi0j2_0SpaSgoSRPHPR5S48aSw&oe=62DF471C">
 <br>
 <hr>
-<h1 align="center">ᴛʜᴀɴᴋs ғᴏʀ ʏᴏᴜʀ ᴠɪsɪᴛ. ʜᴀᴠᴇ ᴀ ɴɪᴄᴇ ᴅᴀʏ.</h1> 
-<h2 align="center", color:red>sɪɢɴ <br>
-ᴍɪɴʜᴇsᴛ ᴅᴇᴠ
+<h1 align="center">ᴛʜᴀɴᴋs ғᴏʀ ʏᴏᴜʀ ᴠɪsɪᴛ. ʜᴀᴠᴇ ᴀ ɴɪᴄᴇ ᴅᴀʏ.🤘</h1> 
+<h2 align="center">🖋sɪɢɴ<br>
+ᴍɪɴʜᴇsᴛ ᴅᴇᴠ😈
 </h2>
 
