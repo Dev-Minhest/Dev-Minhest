@@ -90,5 +90,5 @@
 <hr>
 <h1 align="center">ᴛʜᴀɴᴋs ғᴏʀ ʏᴏᴜʀ ᴠɪsɪᴛ. ʜᴀᴠᴇ ᴀ ɴɪᴄᴇ ᴅᴀʏ.</h1> 
 <h2 align="center">sɪɢɴ</h2>
-<h3 align="center">ᴍɪɴʜᴇsᴛ ᴅᴇᴠ</h3>
+<span align="center">ᴍɪɴʜᴇsᴛ ᴅᴇᴠ</span>
 
