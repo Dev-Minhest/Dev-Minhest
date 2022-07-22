@@ -29,6 +29,8 @@
 
 <br>
 <h2 align="center">🌎 My Social 🌎</h2>
+<span><img src="" alt="Twitter logo" title="Twitter" height="25" /></span>
+&nbsp;
 
 <br><br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
