@@ -89,7 +89,7 @@
 <br>
 <hr>
 <h1 align="center">ᴛʜᴀɴᴋs ғᴏʀ ʏᴏᴜʀ ᴠɪsɪᴛ. ʜᴀᴠᴇ ᴀ ɴɪᴄᴇ ᴅᴀʏ.</h1> 
-<h2 align="center">sɪɢɴ
+<h2 align="center", color:red>sɪɢɴ <br>
 ᴍɪɴʜᴇsᴛ ᴅᴇᴠ
 </h2>
 
