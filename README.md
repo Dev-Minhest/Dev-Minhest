@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+<!-- Minhest Dev -->
 <a href="#" target="_blank">
   <img src="svg/minhestdev.svg" width="1200" alt="Click to see the source" />
 </a>
@@ -82,4 +82,8 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
 
 </div>
+
+<br>
+<h2 align="center">🌎 My CV 🌎</h2>
+<br>
 
